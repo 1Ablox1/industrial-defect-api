@@ -1,0 +1,1 @@
+"""Industrial defect API package."""
