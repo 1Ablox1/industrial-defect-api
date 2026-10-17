@@ -2,6 +2,11 @@
 
 Built in 2026 as a portfolio project. Demonstrates skills used in my logistics / automotive AI roles.
 
+| | |
+|---|---|
+| **Portfolio schedule** | 4–17 Aug 2025 |
+| **CV experience alignment** | Industrial Automation — Jun–Sep 2025 |
+
 Theme: industrial vision / quality control — upload a panel image, get OK/NG + score + bounding boxes.
 
 ## Stack
