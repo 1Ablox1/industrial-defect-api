@@ -32,4 +32,4 @@ curl -X POST http://127.0.0.1:8003/inspect -F "file=@data/samples/ng/ng_01.png"
 
 ## License
 
-MIT — Abdalla Abdelsamie (2026).
+[MIT](LICENSE)
